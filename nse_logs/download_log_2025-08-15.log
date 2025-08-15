@@ -1,0 +1,60 @@
+[2025-08-15 15:56:44] Email sent to kabinash302@gmail.com: Login Successful
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\AUB_2025117_23062025.csv: ['Confirmed list of securities to be auctioned in A 2025117 to be held on Jun 23 2025.']
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv: ['TradDt', 'BizDt', 'Sgmt', 'Src', 'FinInstrmTp', 'FinInstrmId', 'ISIN', 'TckrSymb', 'SctySrs', 'XpryDt', 'FininstrmActlXpryDt', 'StrkPric', 'OptnTp', 'FinInstrmNm', 'OpnPric', 'HghPric', 'LwPric', 'ClsPric', 'LastPric', 'PrvsClsgPric', 'UndrlygPric', 'SttlmPric', 'OpnIntrst', 'ChngInOpnIntrst', 'TtlTradgVol', 'TtlTrfVal', 'TtlNbOfTxsExctd', 'SsnId', 'NewBrdLotQty', 'Rmks', 'Rsvd1', 'Rsvd2', 'Rsvd3', 'Rsvd4']
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\CMVOLT_23062025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\eq_band_changes_23062025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\MA230625.csv: ['Unnamed: 0', '23-Jun-2025']
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\SLB_ELG_SEC_23062025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\top10nifty50_230625.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-08-15 15:56:50] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\AUB_2025152_11082025.csv: ['Confirmed list of securities to be auctioned in A 2025152 to be held on Aug 11 2025.']
+[2025-08-15 15:56:51] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\BhavCopy_NSE_CM_0_0_0_20250811_F_0000.csv: ['TradDt', 'BizDt', 'Sgmt', 'Src', 'FinInstrmTp', 'FinInstrmId', 'ISIN', 'TckrSymb', 'SctySrs', 'XpryDt', 'FininstrmActlXpryDt', 'StrkPric', 'OptnTp', 'FinInstrmNm', 'OpnPric', 'HghPric', 'LwPric', 'ClsPric', 'LastPric', 'PrvsClsgPric', 'UndrlygPric', 'SttlmPric', 'OpnIntrst', 'ChngInOpnIntrst', 'TtlTradgVol', 'TtlTrfVal', 'TtlNbOfTxsExctd', 'SsnId', 'NewBrdLotQty', 'Rmks', 'Rsvd1', 'Rsvd2', 'Rsvd3', 'Rsvd4']
+[2025-08-15 15:56:51] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\CMVOLT_11082025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-08-15 15:56:51] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\eq_band_changes_11082025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-08-15 15:56:51] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\MA110825.csv: ['Unnamed: 0', '11-Aug-2025']
+[2025-08-15 15:56:51] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\SLB_ELG_SEC_11082025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-08-15 15:56:51] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\top10nifty50_110825.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-08-15 15:56:51] Previewed AUB_2025117_23062025.csv successfully
+[2025-08-15 15:56:53] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\AUB_2025117_23062025.csv: ['Confirmed list of securities to be auctioned in A 2025117 to be held on Jun 23 2025.']
+[2025-08-15 15:56:53] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv: ['TradDt', 'BizDt', 'Sgmt', 'Src', 'FinInstrmTp', 'FinInstrmId', 'ISIN', 'TckrSymb', 'SctySrs', 'XpryDt', 'FininstrmActlXpryDt', 'StrkPric', 'OptnTp', 'FinInstrmNm', 'OpnPric', 'HghPric', 'LwPric', 'ClsPric', 'LastPric', 'PrvsClsgPric', 'UndrlygPric', 'SttlmPric', 'OpnIntrst', 'ChngInOpnIntrst', 'TtlTradgVol', 'TtlTrfVal', 'TtlNbOfTxsExctd', 'SsnId', 'NewBrdLotQty', 'Rmks', 'Rsvd1', 'Rsvd2', 'Rsvd3', 'Rsvd4']
+[2025-08-15 15:56:53] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\CMVOLT_23062025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-08-15 15:56:53] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\eq_band_changes_23062025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-08-15 15:56:53] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\MA230625.csv: ['Unnamed: 0', '23-Jun-2025']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\SLB_ELG_SEC_23062025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-06-24\top10nifty50_230625.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\AUB_2025152_11082025.csv: ['Confirmed list of securities to be auctioned in A 2025152 to be held on Aug 11 2025.']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\BhavCopy_NSE_CM_0_0_0_20250811_F_0000.csv: ['TradDt', 'BizDt', 'Sgmt', 'Src', 'FinInstrmTp', 'FinInstrmId', 'ISIN', 'TckrSymb', 'SctySrs', 'XpryDt', 'FininstrmActlXpryDt', 'StrkPric', 'OptnTp', 'FinInstrmNm', 'OpnPric', 'HghPric', 'LwPric', 'ClsPric', 'LastPric', 'PrvsClsgPric', 'UndrlygPric', 'SttlmPric', 'OpnIntrst', 'ChngInOpnIntrst', 'TtlTradgVol', 'TtlTrfVal', 'TtlNbOfTxsExctd', 'SsnId', 'NewBrdLotQty', 'Rmks', 'Rsvd1', 'Rsvd2', 'Rsvd3', 'Rsvd4']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\CMVOLT_11082025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\eq_band_changes_11082025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\MA110825.csv: ['Unnamed: 0', '11-Aug-2025']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\SLB_ELG_SEC_11082025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-08-15 15:56:54] Columns in C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-12\top10nifty50_110825.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-08-15 15:56:54] Previewed AUB_2025117_23062025.csv successfully
+[2025-08-15 15:57:07] Accessing https://www.nseindia.com/all-reports
+[2025-08-15 15:57:30] Report_Found 10 Downloading...
+[2025-08-15 15:57:30] Downloading...: AUB_2025155_14082025.csv from https://nsearchives.nseindia.com/content/nsccl/AUB_2025155_14082025.csv
+[2025-08-15 15:57:32] Downloaded: AUB_2025155_14082025.csv
+[2025-08-15 15:57:32] Downloading...: BhavCopy_NSE_CM_0_0_0_20250814_F_0000.csv.zip from https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_20250814_F_0000.csv.zip
+[2025-08-15 15:57:32] Downloaded: BhavCopy_NSE_CM_0_0_0_20250814_F_0000.csv.zip
+[2025-08-15 15:57:32] Extracting ZIP: C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\ZIP_Files\2025-08-15\BhavCopy_NSE_CM_0_0_0_20250814_F_0000.csv.zip
+[2025-08-15 15:57:32] Extracted ZIP: C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\ZIP_Files\2025-08-15\BhavCopy_NSE_CM_0_0_0_20250814_F_0000.csv.zip
+[2025-08-15 15:57:32] Moved BhavCopy_NSE_CM_0_0_0_20250814_F_0000.csv to C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\CSV_Files\2025-08-15
+[2025-08-15 15:57:32] Deleted original ZIP file: C:\Users\Abinash\Desktop\Internship_project\Nse_Reports\ZIP_Files\2025-08-15\BhavCopy_NSE_CM_0_0_0_20250814_F_0000.csv.zip
+[2025-08-15 15:57:32] Downloading...: top10nifty50_140825.csv from https://nsearchives.nseindia.com/content/indices/top10nifty50_140825.csv
+[2025-08-15 15:57:32] Downloaded: top10nifty50_140825.csv
+[2025-08-15 15:57:32] Downloading...: cat_turnover_140825.xls from https://nsearchives.nseindia.com/archives/equities/cat/cat_turnover_140825.xls
+[2025-08-15 15:57:33] Retry1 for cat_turnover_140825.xls
+[2025-08-15 15:57:36] Retry2 for cat_turnover_140825.xls
+[2025-08-15 15:57:38] Retry3 for cat_turnover_140825.xls
+[2025-08-15 15:57:40] Downloading...: SLB_ELG_SEC_14082025.csv from https://nsearchives.nseindia.com/archives/slbs/seclist/SLB_ELG_SEC_14082025.csv
+[2025-08-15 15:57:40] Downloaded: SLB_ELG_SEC_14082025.csv
+[2025-08-15 15:57:40] Downloading...: MA140825.csv from https://nsearchives.nseindia.com/archives/equities/mkt/MA140825.csv
+[2025-08-15 15:57:40] Downloaded: MA140825.csv
+[2025-08-15 15:57:40] Downloading...: eq_band_changes_14082025.csv from https://nsearchives.nseindia.com/content/equities/eq_band_changes_14082025.csv
+[2025-08-15 15:57:40] Downloaded: eq_band_changes_14082025.csv
+[2025-08-15 15:57:40] Downloading...: CMVOLT_14082025.CSV from https://nsearchives.nseindia.com/archives/nsccl/volt/CMVOLT_14082025.CSV
+[2025-08-15 15:57:40] Downloaded: CMVOLT_14082025.CSV
+[2025-08-15 15:57:40] Downloading...: MTO_14082025.DAT from https://nsearchives.nseindia.com/archives/equities/mto/MTO_14082025.DAT
+[2025-08-15 15:57:40] Downloaded: MTO_14082025.DAT
+[2025-08-15 15:57:40] Downloading...: new_bhavcopy_format_readme.xlsx from https://nsearchives.nseindia.com/content/new_bhavcopy_format_readme.xlsx
+[2025-08-15 15:57:41] Downloaded: new_bhavcopy_format_readme.xlsx
+[2025-08-15 15:57:41] All Reports Successfully Downloaded: C:\Users\Abinash\Desktop\Internship_project\Nse_Reports (Average Speed: 0.39s/file)
